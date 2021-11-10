@@ -1,0 +1,15 @@
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/MyApp
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/MyApp.dll
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/workspaces/dotnet6/MyApp/bin/Debug/net6.0/MyApp.pdb
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.dll
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.pdb
+/workspaces/dotnet6/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
